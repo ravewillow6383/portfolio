@@ -18,3 +18,13 @@ Finish time: _____
 
 Actual time needed to complete: _____
 
+Number and name of feature: feature 1 for day 2: add functionality
+Estimate of time needed to complete: 4 hours
+
+Start time: 1030
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+
